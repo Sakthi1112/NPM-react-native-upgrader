@@ -11,5 +11,21 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-native": "^0.74.1"
+  },
+  "keywords": [
+    "React Native Upgrader",
+    "Automated Updates",
+    "Dependency Management",
+    "Simplified Upgrading",
+    "Node.js and npm",
+    "Global or Local Installation",
+    "MIT License",
+    "GitHub Issues",
+    "Root Directory",
+    "npm Package"
+   ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Sakthi1112/NPM-react-native-upgrader.git"
   }
 }
