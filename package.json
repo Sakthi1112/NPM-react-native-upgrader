@@ -1,6 +1,6 @@
 {
   "name": "react-native-upgrader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,8 @@
     "GitHub Issues",
     "Root Directory",
     "npm Package"
-   ],
-   "repository": {
+  ],
+  "repository": {
     "type": "git",
     "url": "https://github.com/Sakthi1112/NPM-react-native-upgrader.git"
   }
